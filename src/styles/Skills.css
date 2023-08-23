@@ -1,0 +1,11 @@
+/* Skills styles */
+#skills {
+  padding: 2vw 0; /* Adjust padding using vw */
+}
+
+h2 {
+  font-size: 4vw; /* Adjust font size using vw */
+  margin-bottom: 1vw; /* Adjust margin using vw */
+}
+
+/* Adjust other font sizes as needed */

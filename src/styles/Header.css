@@ -1,0 +1,23 @@
+/* Header styles */
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 2vw; /* Adjust padding using vw */
+}
+
+h1 {
+  font-size: 5vw; /* Adjust font size using vw */
+  margin: 0;
+}
+  
+  nav {
+    margin-top: 1rem;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 1rem;
+  }
+  

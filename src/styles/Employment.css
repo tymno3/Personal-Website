@@ -1,0 +1,29 @@
+/* Employment styles */
+#employment {
+  padding: 2vw 0; /* Adjust padding using vw */
+}
+
+h2 {
+  font-size: 4vw; /* Adjust font size using vw */
+  margin-bottom: 1vw; /* Adjust margin using vw */
+}
+
+.job {
+  margin-bottom: 3vw;
+}
+
+.job .title {
+  font-size: 3.5vw; /* Adjust title font size using vw */
+  margin-bottom: 0.5vw;
+}
+
+.job .date {
+  font-size: 2vw; /* Adjust date font size using vw */
+  color: #666;
+  margin-bottom: 1vw;
+}
+
+.job .description {
+  font-size: 1.5vw; /* Adjust description font size using vw */
+  line-height: 1.6;
+}
